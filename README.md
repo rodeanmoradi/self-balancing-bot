@@ -4,4 +4,4 @@
 In prog
 
 ## Demo
-Link here
+![Demo](assets/demo.gif)
