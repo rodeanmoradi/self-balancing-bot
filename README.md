@@ -4,4 +4,4 @@
 In prog
 
 ## Demo
-![Demo](assets/demo.gif)
+![Demo](assets/Kalman Demo.mp4)
