@@ -7,8 +7,6 @@ This project implements a real-time embedded control system for a two-wheeled, i
 ## Kalman Filter
 ![Demo](assets/Kalman%20Demo.gif)
 
-## Demo
-
 ## Prototype
 ![Demo](assets/Self-Balancing%20Robot%20Demo.gif)
 
