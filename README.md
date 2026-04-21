@@ -10,9 +10,8 @@ Sensing via IMU -> State Estimation via Kalman filter -> Control (PID) -> Actuat
 
 ## Achievements
 
-- **Real-Time Control Pipeline:** Developed and optimized a custom control loop, achieving a consistent 100 Hz (10ms latency) execution rate
+- **Real-Time Control Pipeline:** Developed and fine-tuned a custom PID controller
 - **Advanced State Estimation:** Engineered a custom Kalman Filter to fuse noisy MPU6050 accelerometer and gyro data, providing a robust tilt estimate by eliminating noise
-- **Control System Tuning:** Implemented and tuned a PID controller, achieving stable self-balancing
 
 ## Components
 
